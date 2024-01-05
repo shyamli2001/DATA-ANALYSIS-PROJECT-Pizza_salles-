@@ -10,3 +10,4 @@ CHARTS Requirments:
    Top5
    Bottom5
    Daily sales
+Dashboars are created in excel,power bi, tableau also the KPI are calculated in mysql
